@@ -1,0 +1,18 @@
+paths:
+  # Local to apply-factory
+  kb_db: "kb.sqlite"
+
+  # Career-ops files (relative to this config, i.e. from extensions/apply-factory/)
+  profile: "../../config/profile.yml"
+  reports_dir: "../../reports"
+  output_dir: "../../output"
+  pipeline_tsv: "../../data/pipeline.tsv"
+
+llm:
+  backend: "opencode"
+  model: "kimi-k2"
+  temperature: 0.1
+
+kimi_webbridge:
+  never_auto_submit: true
+  checkpoint_timeout_sec: 900
