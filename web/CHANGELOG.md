@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/AbhishekTripathi2710/career-ops-extension/compare/web-v0.6.0...web-v0.7.0) (2026-08-10)
+
+
+### Features
+
+* implement career-ops extension with web dashboard, job provider plugins, evaluation framework, and multi-language support. ([b55ad1e](https://github.com/AbhishekTripathi2710/career-ops-extension/commit/b55ad1ef83baea8ed6e770d7df20d4f0b03d791f))
+
 ## [0.6.0](https://github.com/santifer/career-ops/compare/web-v0.5.0...web-v0.6.0) (2026-08-04)
 
 
